@@ -1,2 +1,3 @@
 # proyecto_1_java
-primer proyecto en java
+Este es mi primer proyecto en java, estoy en cuarto semestre
+
